@@ -11,6 +11,7 @@
 本列表不定期更新，**仅供参考**。
 
 - Sodium
+- Lithium
 - Iris Shader
 - ModrenUI
 - FTB Library
@@ -22,7 +23,7 @@
 - Konkrete
   - FancyMenu
   - Drippy Loading Screen
-- Shino
+- Rhino
   - KubeJS（可选）
 
 ### 设备配置
