@@ -13,7 +13,7 @@
 - Sodium
 - Lithium
 - Iris Shader
-- ModrenUI
+- ModrenUI（**需要OpenGL 3.3或更高版本**）
 - FTB Library
   - FTB任务
   - FTB团队
@@ -22,9 +22,16 @@
 - Melody
 - Konkrete
   - FancyMenu
-  - Drippy Loading Screen
+  - Drippy Loading Screen（可选）
 - Rhino
   - KubeJS（可选）
+
+### 启动器
+
+选择一个即可。
+
+- HMCL
+- PCL2
 
 ### 设备配置
 
