@@ -5,3 +5,4 @@
 - [The Return: 9012](tr9012.md)
   - [挑战](tr9012/challenge.md)
     - [阿赖耶没有在等任何人！](tr9012/araya.md)
+    - [安全这一块……](tr9012/13-secure.md)
